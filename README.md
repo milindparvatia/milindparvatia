@@ -4,7 +4,7 @@
 **milindparvatia/milindparvatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Welcome to my Github, I'm currently studing Master of Data Science at RMIT university, and working on alot of side projects. 
+Welcome to my Github, I'm currently studing Master of Data Science at RMIT university, and working on few of side projects. 
 
 - 📍 Melbourne, Australia
 - 🔭 I’m currently working on machine learning projects.
