@@ -4,12 +4,12 @@
 **milindparvatia/milindparvatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Welcome to my Github, I'm currently studying Master of Data Science at RMIT university, and working on few of side projects. 
+Welcome to my Github, Here you can find more about me and view the current public projects I am working on...
 
 - 📍 Melbourne, Australia
-- 🔭 I’m currently looking for work.
-- 🌱 I’m currently learning Deep Learning, AI and Big Data proccessing at @RMIT.
+- 🔭 I’m looking for work in djnago/data science related positions.
+- 🌱 I have graduated from @RMIT with masters degree in Data Science.
 - 👯 I’m looking to collaborate on Python/Django projects.
-- 📫 How to reach me: email: milind1997@gmail.com
+- 📫 How to reach me: email: milind.parvatia@outlook.com
 
 ### cheers
